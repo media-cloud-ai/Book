@@ -1,0 +1,6 @@
+[book]
+authors = ["Marc-Antoine Arnaud"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Media Cloud AI"
